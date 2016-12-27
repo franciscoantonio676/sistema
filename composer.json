@@ -1,16 +1,12 @@
 {
-    "name": "Bruno/hxphp",
+    "name": "franciscoantonio676",
     "require": {
         "php-activerecord/php-activerecord": "dev-master"
     },
     "authors": [
         {
-            "name": "Bruno Campos Santos",
-            "email": "bruno@hxphp.com.br"
-        },
-        {
-            "name": "Gilglécio Santos",
-            "email": "gilglecio@hxphp.com.br"
+            "name": "Francisco Antonio Viana Correia Costa",
+            "email": "favcceletrotecnico@gmail.com"
         }
     ],
     "autoload": {
